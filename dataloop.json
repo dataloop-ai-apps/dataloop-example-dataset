@@ -2,7 +2,7 @@
   "displayName": "Dataloop Example Dataset",
   "name": "dataloop-example-dataset",
   "description": "This dataset serves as a practical tool for users to familiarize themselves with the fundamental functionalities of various tabs in the dataset viewer.",
-  "scope": "project",
+  "scope": "public",
   "version": "0.0.2",
   "codebase": {
     "type": "git",
