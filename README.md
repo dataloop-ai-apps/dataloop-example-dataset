@@ -1,4 +1,4 @@
-# Dataset adapter for Pytorch Dataset
+# Dataset adapter for Example Dataset
 
 This dataset adapter is crafted to upload a sample dataset to the Dataloop platform. It serves as a practical tool for users to familiarize themselves with the fundamental functionalities of various tabs in the dataset viewer.
 
