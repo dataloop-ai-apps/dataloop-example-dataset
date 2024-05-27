@@ -11,7 +11,9 @@
   },
   "attributes": {
     "Provider": "Dataloop",
-    "Category": "Dataset"
+    "Category": "Dataset",
+    "Onboarding_Category":"Data Management",
+    "Onbaording_Card":"Use Dataloop Example"
   },
   "components": {
     "modules": [
