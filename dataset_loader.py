@@ -46,7 +46,7 @@ class DatasetExample(dl.BaseServiceRunner):
         logger.info('Uploading dataset...')
         local_path = os.path.join(self.dir, 'export/items/')
         json_path = os.path.join(self.dir, 'export/json/')
-        dataset.items.upload(local_path=local_path, local_annotations_path=json_path)
+        dataset.items.upload(local_path=local_path, local_annotations_path=json_path, item_metadata=dl.ExportMetadata.FROM_JSON)
 
         # Setup dataset recipe and ontology
         recipe = dataset.recipes.list()[0]
