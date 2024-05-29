@@ -13,6 +13,11 @@
     "Provider": "Dataloop",
     "Category": "Dataset"
   },
+  "metadata": {
+    "system": {
+      "systemCompute": true
+    }
+  },
   "components": {
     "modules": [
       {
