@@ -3,15 +3,17 @@
   "name": "dataloop-example-dataset",
   "description": "This dataset serves as a practical tool for users to familiarize themselves with the fundamental functionalities of various tabs in the dataset viewer.",
   "scope": "public",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "codebase": {
     "type": "git",
     "gitUrl": "https://github.com/dataloop-ai-apps/dataloop-example-dataset.git",
-    "gitTag": "0.0.3"
+    "gitTag": "0.0.4"
   },
   "attributes": {
     "Provider": "Dataloop",
-    "Category": "Dataset"
+    "Category": "Dataset",
+    "Onboarding_Category":"Data Management",
+    "Onbaording_Card":"Use Dataloop Example"
   },
   "metadata": {
     "system": {
